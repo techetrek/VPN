@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# https://github.com/siz1103/VPN/blob/master/vpn-install.sh
+# Installer OpenVPN RoadWarrior
 #
 
 #Funzioni Principali
