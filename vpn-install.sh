@@ -3,6 +3,7 @@
 # Installer OpenVPN RoadWarrior
 #
 #
+#
 
 #Funzioni Principali
 check_iniziali(){
